@@ -3,7 +3,7 @@ Cognitive - '인지'라는 뜻의 영어 단어 입니다. 사진을 보고 상�
 마이크로소프트의 [Cognitive Services](https://www.microsoft.com/cognitive-services/en-us/) 입니다. 매년 3월 말에 개최되는 개발자 행사인 Build 에서 2016년에 소개되었으며, 기존에는 Project Oxford 라고 불려져 왔던 프로젝트 입니다. 
 Vision, Speech, Language, Knowledge, Search 이렇게 다섯개 분야로 나누어져 있으며, 현재 총 24개의 서비스를 제공하고 있습니다.
 
-![001](./images/cognitive/001.png)
+![001](./images/cognitive/001.PNG)
 
 Cognitive 서비스를 본격 설명하기 전에 앞서, 이를 이용한 재미있는 웹사이트 하나 간단히 소개해 드리도록 하겠습니다. 
 바로 [Captionbot.ai](https://www.captionbot.ai/) 입니다!
