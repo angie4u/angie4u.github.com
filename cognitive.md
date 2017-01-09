@@ -103,11 +103,11 @@ API 중 Vision API를 선택합니다.
 
 ![012](./images/cognitive/012.jpg) 
 
-아래의 약관에 동의를 하시고 계속 진행 하시기 바랍니다.
+위의 약관에 동의를 하시고 계속 진행 하시기 바랍니다.
 
 ![013](./images/cognitive/013.jpg) 
 
-Vision API를 사용할 수 있는 Key를 발급받으셨습니다. 키를 복사하여 API 요청시 사용하실 수 있습니다. 
+Vision API를 사용할 수 있는 Key를 발급받으셨습니다. 키를 복사하여 API 요청시 혹은 SDK에서 사용하실 수 있습니다. 
 
 ## 3.Cognitive API 및 SDK 사용 방법  
 
@@ -116,8 +116,8 @@ Vision API를 사용할 수 있는 Key를 발급받으셨습니다. 키를 복�
 개발자들이 쉽고 편리하게 이용할 수 있도록 API나, SDK 형태로도 제공하고 있습니다. 
 
 VISION API의 경우 API Document 및 SDK를 아래의 페이지에서 확인하실 수 있습니다. 
-* [Vision API - API Documentation](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
 
+* [Vision API - API Documentation](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
 * [Vision API - SDK](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=computer%20vision)
 
 Cogniive API를 이용하는 방법은 그리 어렵지 않습니다. 
