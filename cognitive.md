@@ -1,9 +1,42 @@
 # Cognitive Services
 Cognitive - '인지'라는 뜻의 영어 단어 입니다. 사진을 보고 상황을 파악하고, 문장을 읽고 의미를 이해할 수 있는 등 인지와 관련된 서비스를 제공하는 것이 바로 
-마이크로소프트의 [Cognitive Services](https://www.microsoft.com/cognitive-services/en-us/) 입니다. 매년 3월 말에 개최되는 개발자 행사인 Build 에서 2016년에 소개되었으며, 기존에는 Project Oxford 라고 불려져 왔던 프로젝트 입니다. 
-Vision, Speech, Language, Knowledge, Search 이렇게 다섯개 분야로 나누어져 있으며, 현재 총 24개의 서비스를 제공하고 있습니다.
+마이크로소프트의 [Cognitive Services](https://www.microsoft.com/cognitive-services/en-us/) 입니다. 
+Vision, Speech, Language, Knowledge, Search 이렇게 다섯 가지 분야에 총 24개의 서비스를 제공하고 있습니다.
 
-![001](./images/cognitive/001.PNG)
++ Vision 
+    * [Computer Vision](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
+    * [Computer Moderator](https://www.microsoft.com/cognitive-services/en-us/content-moderator)
+    * [Emotion](https://www.microsoft.com/cognitive-services/en-us/emotion-api)
+    * [Face](https://www.microsoft.com/cognitive-services/en-us/face-api)
+    * [Video](https://www.microsoft.com/cognitive-services/en-us/video-api)
+
++ Speech
+    * [Bing Speech](https://www.microsoft.com/cognitive-services/en-us/speech-api)
+    * [Custom Recognition](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
+    * [Speaker Recognition](https://www.microsoft.com/cognitive-services/en-us/speaker-recognition-api)
+
++ Language
+    * [Bing Spell CHeck](https://www.microsoft.com/cognitive-services/en-us/bing-spell-check-api)
+    * [Language Understanding](https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis)
+    * [Linguistic Analysis](https://www.microsoft.com/cognitive-services/en-us/linguistic-analysis-api)
+    * [Text Analytics](https://www.microsoft.com/cognitive-services/en-us/text-analytics-api)
+    * [Translator](https://www.microsoft.com/cognitive-services/en-us/translator-api)
+    * [WebLM](https://www.microsoft.com/cognitive-services/en-us/web-language-model-api)
+
++ Knowledge
+    * [Academic](https://www.microsoft.com/cognitive-services/en-us/academic-knowledge-api)
+    * [Entity Linking](https://www.microsoft.com/cognitive-services/en-us/entity-linking-intelligence-service)
+    * [Knowledge Exploration](https://www.microsoft.com/cognitive-services/en-us/knowledge-exploration-service)
+    * [QnA Maker](https://www.microsoft.com/cognitive-services/en-us/qnamaker)
+    * [Recommendations](https://www.microsoft.com/cognitive-services/en-us/recommendations-api)    
+
++ Search
+    * [Bing Autosuggest](https://www.microsoft.com/cognitive-services/en-us/bing-autosuggest-api)
+    * [Bing Image Search](https://www.microsoft.com/cognitive-services/en-us/bing-image-search-api)
+    * [Bing News Search](https://www.microsoft.com/cognitive-services/en-us/bing-news-search-api)
+    * [Bing Video Search](https://www.microsoft.com/cognitive-services/en-us/bing-video-search-api)
+    * [Bing Web Search](https://www.microsoft.com/cognitive-services/en-us/bing-web-search-api)
+
 
 Cognitive 서비스를 본격 설명하기 전에 앞서, 이를 이용한 재미있는 웹사이트 하나 간단히 소개해 드리도록 하겠습니다. 
 바로 [Captionbot.ai](https://www.captionbot.ai/) 입니다!
