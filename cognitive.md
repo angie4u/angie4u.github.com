@@ -71,22 +71,28 @@ Cognitive Serivce와 관련된 모든 정보를 확인할 수 있는 페이지�
 
 ### Step3. Sign up
 ![005](./images/cognitive/005.jpg) 
+
 Cognitive Services를 사용하기 위해서는 Microsoft 계정이나, GitHub 계정 혹은 LinkedIn 계정이 필요합니다. 
 Microsoft 계정을 이용하여 로그인 해보겠습니다. 
 
 ![006](./images/cognitive/006.jpg) 
+
 아이디 및 비밀번호를 입력하고 로그인합니다.
 
 ![007](./images/cognitive/007.jpg) 
+
 약관에 동의합니다.
 
 ![008](./images/cognitive/008.jpg) 
+
 메일 계정이 아직 확인 되지 않은 상태입니다. Send Verification을 누르면 해당 메일 계정으로 Verification 메일이 전송됩니다.
 
 ![009](./images/cognitive/009.jpg) 
+
 메일이 도착하면 링크를 클릭하여 인증을 하시기 바랍니다.
 
 ![010](./images/cognitive/010.jpg) 
+
 이러한 화면이 뜨면 성공적으로 인증이 되셨습니다. 
 이제 그러면 API 사용 요청을 해보도록 하겠습니다.
 API 중 Vision API를 선택해 주시기 바랍니다. 
