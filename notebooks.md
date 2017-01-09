@@ -6,6 +6,7 @@
 무료로 사용하실 수 있으며 현재는 아직 프리뷰 버전입니다만, 굉장히 편리한 서비스로 여러분들께 소개해드리고자 합니다. 
 
 Azure Notebooks 페이지인 [https://notebooks.azure.com/](https://notebooks.azure.com/)에 접속해주시기 바랍니다. 
+
 ![001](./images/notebooks/001.jpg) 
 
 Get Started 버튼을 클릭하시면 미리 작성되어 있는 노트북 목록을 확인하실 수 있습니다. Azure Notebooks - Welcome.ipynd 파일에서는 Azure Noteboks 서비스에 대한 전반적인 소개 및 관련 자료들을 안내하고 있습니다. 
