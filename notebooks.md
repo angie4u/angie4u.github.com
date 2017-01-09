@@ -1,4 +1,5 @@
 # Azure Notebooks
+
 ## 1.Azure Notebooks 서비스 소개 
 [Azure Notebooks](https://notebooks.azure.com/) 라는 서비스를 소개합니다! 혹시 Jupyter Notebook이라는 서비스 들어보셨나요? Jupyter Notebook은 실행 가능한 코드 및 시각화된 결과를 별도의 환경설정 없이 웹 애플리케이션 상에서 확인할 수 있게하는 오픈소스 프로젝트입니다. 
 자세한 정보는 [jupyter.org](http://jupyter.org/) 페이지에서 확인하실 수 있습니다. Azure Notebook을 한마디로 소개하자면 마이크로소프트 클라우드인 Azure에서 호스팅 되고있는 Jupyter Notebooks 서비스 입니다. 
@@ -15,6 +16,7 @@ Get Started 버튼을 클릭하시면 미리 작성되어 있는 노트북 목�
 그러면 이제부터 Azure Notebooks를 함께 만들어 보도록 하겠습니다.  
 
 ## 2.Azure Notebooks 계정 등록 방법
+
 ### Step1. Microsoft 계정으로 로그인 하기
 ![003](./images/notebooks/003.jpg) 
 
@@ -94,8 +96,8 @@ Cell 단위로 markdown 부분인지, code를 작성한 부분인지 지정해 �
 
 위의 그림처럼 markdown을 선택하고 text block에 아래의 내용을 붙여넣습니다. 
 
-'''
+```
 # My First Notebook
 저의 첫번째 Azure Notebooks 예제입니다.
-'''
+```
 
