@@ -41,12 +41,12 @@ Vision, Speech, Language, Knowledge, Search 이렇게 다섯 가지 분야에 �
 Cognitive 서비스를 본격 설명하기 전에 앞서, 이를 이용한 재미있는 웹사이트 하나 간단히 소개해 드리도록 하겠습니다. 
 바로 [Captionbot.ai](https://www.captionbot.ai/) 입니다!
 
-![002](./images/cognitive/002.PNG) 
+![002](./images/cognitive/002.jpg) 
 
 사진 중의 하나를 선택하시거나, 직접 사진을 업로드 하거나 혹은 인터넷상의 사진 URL을 입력하여 테스트 해보 실 수 있습니다.
 제시된 사진중 하나를 선택하여 결과를 확인해 보겠습니다. 
 
-![003](./images/cognitive/003.PNG) 
+![003](./images/cognitive/003.jpg) 
 
 마치 컴퓨터에 눈이 달린것 처럼 상당히 정확하게 사진을 분석합니다. 
 좋아하는 연예인 사진이나, 멋진 곳에서 친구들과 찍은 사진을 이용하여 테스트 해보시기 바랍니다.
@@ -70,10 +70,10 @@ Microsoft 계정이나, GitHub 계정 혹은 LinkedIn 계정 중 1개만 있으�
 : [https://www.microsoft.com/cognitive-services/en-us/](https://www.microsoft.com/cognitive-services/en-us/)
 
 ### Step2. 우측 상단의 'Get Started for free' 클릭
-![004](./images/cognitive/004.PNG)  
+![004](./images/cognitive/004.jpg)  
 
 ### Step3. Sign up
-![005](./images/cognitive/005.PNG) 
+![005](./images/cognitive/005.jpg) 
 
 Microsoft account 를 이용하여 로그인 해보겠습니다. 
 
