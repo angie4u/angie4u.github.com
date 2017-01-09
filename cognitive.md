@@ -120,19 +120,28 @@ VISION API의 경우 API Document 및 SDK를 아래의 페이지에서 확인하
 * [Vision API - API Documentation](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
 * [Vision API - SDK](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=computer%20vision)
 
-Cogniive API를 이용하는 방법은 그리 어렵지 않습니다. 
+Cognitive API를 테스트 해볼 수 있는 API Testing Console에서 API 사용법을 간단하게 안내해 드리겠습니다. 
 
 ## API 테스트 해보기
-[Computer Vision API - API Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa/console) 페이지에서 간단하게 테스트를 해보실 수 있습니다. 
-Analyze Image 탭에서 위에서 발급 받은 키를 입력해 주시기 바랍니다. 
-
 ![014](./images/cognitive/014.jpg) 
 
-Request Body 부분의 url에 Test 하고싶은 이미지의 url을 붙여 넣으시기 바랍니다. 
+[Computer Vision API - API Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa/console) 페이지에서 간단하게 API를 테스트 해보실 수 있습니다. 
+Headers의 Ocp-Apim-Subscrption-Key에 위에서 발급 받은 키를 붙여넣어 주시기 바랍니다. 
 
 ![015](./images/cognitive/015.jpg) 
 
+Request Body 부분의 url에 Test 하고싶은 이미지의 url을 입력하시기 바랍니다. 
 
+![016](./images/cognitive/016.jpg) 
+![017](./images/cognitive/017.jpg) 
+
+위와 같은 형태로 요청을 전송할 예정입니다. 이미지에 해당하는 url과 자신의 Subscrption Key를 붙여 넣으셨다면 Send 버튼을 누르시기 바랍니다. 
+
+![018](./images/cognitive/017.jpg) 
+
+200번 응답을 받으면 성공적으로 응답을 받은 것 입니다. JSON 포멧으로 Response를 받으실 수 있으며 이를 적절히 변형하셔서 개인 프로젝트에서 이용하시면 됩니다.
+긴 포스트 읽으시느라 수고 많으셨습니다! 
+마이크로소프트의 Cognitive Services를 이용하여 재미난 애플리케이션 만들어 보시기 바랍니다! 
 
 
 
