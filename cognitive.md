@@ -37,13 +37,15 @@ Vision, Speech, Language, Knowledge, Search 이렇게 다섯 가지 분야에 �
     * [Bing Video Search](https://www.microsoft.com/cognitive-services/en-us/bing-video-search-api)
     * [Bing Web Search](https://www.microsoft.com/cognitive-services/en-us/bing-web-search-api)
 
+## 1.Cognitive Serivces 를 활용한 웹 사이트 소개  
 
 Cognitive 서비스를 본격 설명하기 전에 앞서, 이를 이용한 재미있는 웹사이트 하나 간단히 소개해 드리도록 하겠습니다. 
 바로 [Captionbot.ai](https://www.captionbot.ai/) 입니다!
 
 ![002](./images/cognitive/002.jpg) 
 
-사진 중의 하나를 선택하시거나, 직접 사진을 업로드 하거나 혹은 인터넷상의 사진 URL을 입력하여 테스트 해보 실 수 있습니다.
+사진에 대한 설명을 자동으로 생성해주는 재미난 웹사이트 입니다. 
+사진 하나를 선택하시거나, 직접 파일을 업로드 하시거나 혹은 사진 URL을 입력하여 테스트 해보실 수 있습니다.
 제시된 사진중 하나를 선택하여 결과를 확인해 보겠습니다. 
 
 ![003](./images/cognitive/003.jpg) 
@@ -51,9 +53,9 @@ Cognitive 서비스를 본격 설명하기 전에 앞서, 이를 이용한 재�
 마치 컴퓨터에 눈이 달린것 처럼 상당히 정확하게 사진을 분석합니다. 
 좋아하는 연예인 사진이나, 멋진 곳에서 친구들과 찍은 사진을 이용하여 테스트 해보시기 바랍니다.
 
-위에서 소개해 드린 것 처럼 Cognitive Services를 웹서비스 형태로 이용하실 수 있습니다.
-하지만, 이러한 경우 내가 만든 서비스에 활용하기는 어려움이 많습니다. 
-그래서 개발자들이 Cognitive Services를 쉽고, 편리하게, 널리 이용할 수 있도록 API나, SDK 로 제공하고 있습니다. 
+위에서 소개해 드린 것 처럼 마이크로소프트의 Cognitive Services를 활용한 재미난 웹사이트들이 많이 있습니다.
+하지만, 이를 내가 만든 서비스에 직접 활용하기는 어려움이 있습니다. 
+개발자들이 쉽고 편리하게 이용할 수 있도록 API나, SDK 형태로도 제공하고 있습니다. 
 
 VISION API의 경우 API Document 및 SDK를 아래의 페이지에서 확인하실 수 있습니다. 
 * [Vision API - API Documentation](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
@@ -64,7 +66,8 @@ Cogniive API를 이용하는 방법은 그리 어렵지 않습니다.
 아 참! 그전에 필요한게 하나 있습니다. 로그인이 필요합니다! 
 Microsoft 계정이나, GitHub 계정 혹은 LinkedIn 계정 중 1개만 있으면 됩니다.
 
-## Cognitive Services 서비스 등록 방법
+## 2.Cognitive Serivces 등록 방법
+
 
 ### Step1. Cognitive Services 사이트 접속
 : [https://www.microsoft.com/cognitive-services/en-us/](https://www.microsoft.com/cognitive-services/en-us/)
@@ -109,6 +112,9 @@ API 중 Vision API를 선택합니다.
 ![013](./images/cognitive/013.PNG) 
 
 Vision API를 사용할 수 있는 Key를 발급받으셨습니다. 키를 복사하여 API 요청시 사용하실 수 있습니다. 
+
+## 3.Cognitive API 및 SDK 사용 방법  
+
 
 ## API 테스트 해보기
 [Computer Vision API - API Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa/console) 페이지에서 간단하게 테스트를 해보실 수 있습니다. 
