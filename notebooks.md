@@ -11,7 +11,7 @@ Azure Notebooks 페이지인 [https://notebooks.azure.com/](https://notebooks.az
 
 Get Started 버튼을 클릭하시면 미리 작성되어 있는 노트북 목록을 확인하실 수 있습니다. Azure Notebooks - Welcome.ipynd 파일에서는 Azure Noteboks 서비스에 대한 전반적인 소개 및 관련 자료들을 안내하고 있습니다. 
 
-![001](./images/notebooks/001.jpg) 
+![002](./images/notebooks/002.jpg) 
 
 우측의 눈(eye) 모양을 클릭하시면 로그인 없이도 문서를 확인하실 수 있습니다. Notebooks 서비스에 대한 전반적인 안내사항이 담겨있는 문서 외에도, R 및 Python 등등에 관한 문서를 확인해 보실 수 있습니다. 
 그러면 이제부터 Azure Notebooks를 함께 만들어 보도록 하겠습니다.  
