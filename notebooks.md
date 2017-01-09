@@ -102,3 +102,23 @@ Cell 단위로 markdown 부분인지, code를 작성한 부분인지 지정해 �
 저의 첫번째 Azure Notebooks 예제입니다.
 ```
 
+![020](./images/notebooks/020.jpg) 
+
+markdown 문법을 이용하여 첫번째 셀을 작성하셨습니다. 이제 Python 코드로 이루어진 두번째 셀을 작성해 보겠습니다. 
+'+' 버튼을 누르시고 드롭다운 목록에서 Python 3를 선택하시기 바랍니다.
+그리고 아래의 코드를 입력하시기 바랍니다.
+
+```
+a = 2+3
+str = 'Hello' + 'Notebook'
+print(a)
+print(str)
+```
+
+![021](./images/notebooks/021.jpg) 
+
+Run 버튼을 눌러서 코드를 실행해 보겠습니다. 아래와 같은 실행결과를 얻으실 수 있습니다.
+
+![022](./images/notebooks/022.jpg) 
+
+
