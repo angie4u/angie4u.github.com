@@ -71,35 +71,35 @@ Cognitive Serivce와 관련된 모든 정보를 확인할 수 있는 페이지�
 
 ### Step3. Sign up
 ![005](./images/cognitive/005.jpg) 
-: Cognitive Services를 사용하기 위해서는 Microsoft 계정이나, GitHub 계정 혹은 LinkedIn 계정이 필요합니다. 
+Cognitive Services를 사용하기 위해서는 Microsoft 계정이나, GitHub 계정 혹은 LinkedIn 계정이 필요합니다. 
 Microsoft 계정을 이용하여 로그인 해보겠습니다. 
 
-![006](./images/cognitive/006.PNG) 
-: 아이디 및 비밀번호를 입력하고 로그인합니다.
+![006](./images/cognitive/006.jpg) 
+아이디 및 비밀번호를 입력하고 로그인합니다.
 
-![007](./images/cognitive/007.PNG) 
-: 약관에 동의합니다.
+![007](./images/cognitive/007.jpg) 
+약관에 동의합니다.
 
-![008](./images/cognitive/008.PNG) 
-: 메일 계정이 아직 확인 되지 않은 상태입니다. Send Verification을 누르면 해당 메일 계정으로 Verification 메일이 전송됩니다.
+![008](./images/cognitive/008.jpg) 
+메일 계정이 아직 확인 되지 않은 상태입니다. Send Verification을 누르면 해당 메일 계정으로 Verification 메일이 전송됩니다.
 
-![009](./images/cognitive/009.PNG) 
-: 메일이 도착하면 링크를 클릭하여 인증을 하시기 바랍니다.
+![009](./images/cognitive/009.jpg) 
+메일이 도착하면 링크를 클릭하여 인증을 하시기 바랍니다.
 
-![010](./images/cognitive/010.PNG) 
-: 이러한 화면이 뜨면 성공적으로 인증이 되셨습니다. 
+![010](./images/cognitive/010.jpg) 
+이러한 화면이 뜨면 성공적으로 인증이 되셨습니다. 
 이제 그러면 API 사용 요청을 해보도록 하겠습니다.
 API 중 Vision API를 선택해 주시기 바랍니다. 
 
-![011](./images/cognitive/011.PNG) 
+![011](./images/cognitive/011.jpg) 
 
 API 중 Vision API를 선택합니다.
 
-![012](./images/cognitive/012.PNG) 
+![012](./images/cognitive/012.jpg) 
 
 아래의 약관에 동의를 하시고 계속 진행 하시기 바랍니다.
 
-![013](./images/cognitive/013.PNG) 
+![013](./images/cognitive/013.jpg) 
 
 Vision API를 사용할 수 있는 Key를 발급받으셨습니다. 키를 복사하여 API 요청시 사용하실 수 있습니다. 
 
@@ -120,11 +120,11 @@ Cogniive API를 이용하는 방법은 그리 어렵지 않습니다.
 [Computer Vision API - API Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa/console) 페이지에서 간단하게 테스트를 해보실 수 있습니다. 
 Analyze Image 탭에서 위에서 발급 받은 키를 입력해 주시기 바랍니다. 
 
-![014](./images/cognitive/014.PNG) 
+![014](./images/cognitive/014.jpg) 
 
 Request Body 부분의 url에 Test 하고싶은 이미지의 url을 붙여 넣으시기 바랍니다. 
 
-![015](./images/cognitive/015.PNG) 
+![015](./images/cognitive/015.jpg) 
 
 
 
