@@ -134,7 +134,7 @@ Request Body 부분인 {“url”: “http://example.com/image.test.jpg”}에�
 ![016](./images/cognitive/016.jpg) 
 ![017](./images/cognitive/017.jpg) 
 
-위와 같은 형태로 요청을 전송할 예정입니다. 이미지 url과 위에서 발급받은 Key를 모두 붙여 넣으셨다면 Send 버튼을 누르시기 바랍니다. 
+위와 같은 형태로 요청을 전송할 예정입니다. <b>이미지 url</b>과 위에서 발급받은 <b>Key</b>를 모두 붙여 넣으셨다면 Send 버튼을 누르시기 바랍니다. 
 
 ![018](./images/cognitive/017.jpg) 
 
