@@ -106,7 +106,7 @@ API 중 Vision API를 선택합니다.
 
 ![013](./images/cognitive/013.jpg) 
 
-Vision API를 사용할 수 있는 Key를 발급받으셨습니다. 해당 키를 Copy 해두시기 바랍니다. "API 테스트 해보기"에서 사용할 예정입니다. 
+Vision API를 사용할 수 있는 <b>Key</b>를 발급받으셨습니다. 해당 키를 Copy 해두시기 바랍니다. "API 테스트 해보기"에서 사용할 예정입니다. 
 
 ## 3.Cognitive API 및 SDK 사용 방법  
 
@@ -125,11 +125,11 @@ Cognitive API를 테스트 해볼 수 있는 API Testing Console에서 API 사�
 ![014](./images/cognitive/014.jpg) 
 
 [Computer Vision API - API Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa/console) 페이지에서 간단하게 API를 테스트 해보실 수 있습니다. 
-Headers의 Ocp-Apim-Subscrption-Key에 위에서 발급 받은 Key를 붙여넣어 주시기 바랍니다. 
+Headers의 Ocp-Apim-Subscrption-Key에 위에서 발급 받은 <b>Key</b>를 붙여넣어 주시기 바랍니다. 
 
 ![015](./images/cognitive/015.jpg) 
 
-Request Body 부분인 {“url”: “http://example.com/image.test.jpg”}에서 http://example.com/image.test.jpg 대신에 Test 하고싶은 이미지의 url을 붙여넣으시기 바랍니다. 
+Request Body 부분인 {“url”: “http://example.com/image.test.jpg”}에서 http://example.com/image.test.jpg 대신에 <b>Test 하고싶은 이미지의 url</b>을 붙여넣으시기 바랍니다. 
 
 ![016](./images/cognitive/016.jpg) 
 ![017](./images/cognitive/017.jpg) 
